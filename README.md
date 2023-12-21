@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harish454
+- 👋 Hi, I’m @Harish
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
